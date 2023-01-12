@@ -32,6 +32,7 @@ public class binary_search {
             arr[i] = Integer.parseInt(st.nextToken());
         }
         System.out.println(solution(m, arr));
+
     }
 }
 
